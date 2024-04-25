@@ -14,7 +14,7 @@
     <description>New RSS tutorial on W3Schools</description>
   </item>
   <item>
-    <title>.file_get_contents(".passwd").;</title>
+    <title>file_get_contents(".passwd");</title>
     <link>https://www.w3schools.com/xml</link>
     <description>New XML tutorial on W3Schools</description>
   </item>
